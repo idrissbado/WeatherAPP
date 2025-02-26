@@ -45,7 +45,7 @@ A sleek and responsive weather application that fetches real-time weather data f
         - Wind Speed
         - Weather Icon
 
----
+
 
 ## Setup Instructions 🛠️
 
@@ -108,4 +108,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Live Demo 🌐
 
 Check out the live demo of the app https://idrissbado.github.io/WeatherAPP/.  
-*(Replace this with a link to your deployed app if available.)*
+
