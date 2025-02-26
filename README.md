@@ -16,8 +16,7 @@ A sleek and responsive weather application that fetches real-time weather data f
 
 ## Screenshots 📸
 
-![Weather App Screenshot](https://via.placeholder.com/400x600?text=Weather+App+UI)  
-*(Replace this with an actual screenshot of your app once it's running.)*
+![image](https://github.com/user-attachments/assets/af71cc85-5d53-4355-ad08-0c98e3a4864c)
 
 ---
 
